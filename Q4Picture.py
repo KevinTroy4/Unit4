@@ -74,13 +74,20 @@ draw.circle(gameDisplay, Color('blue1'), (440, 310), 3)
 draw.circle(gameDisplay, Color('blue1'), (455, 310), 3)
 draw.circle(gameDisplay, Color('blue1'), (420, 330), 3)
 draw.circle(gameDisplay, Color('blue1'), (435, 330), 3)
+#
+draw.circle(gameDisplay, Color('black'), (425, 395), 7)
+draw.circle(gameDisplay, Color('black'), (470, 395), 7)
+draw.rect(gameDisplay, Color('firebrick1'), Rect(417, 375, 61, 13))
+draw.polygon(gameDisplay, Color('gray84'), [(425, 374), (440, 368), (470, 374)])
+draw.polygon(gameDisplay, Color('gray84'), [(440, 374), (460, 367), (478, 374)])
+draw.rect(gameDisplay, Color('firebrick1'), Rect(440, 368, 30, 13))
 
-draw.circle(gameDisplay, Color('blue1'), (440, 350), 3)
-draw.circle(gameDisplay, Color('blue1'), (455, 350), 3)
-draw.circle(gameDisplay, Color('blue1'), (420, 370), 3)
-draw.circle(gameDisplay, Color('blue1'), (435, 370), 3)
-draw.circle(gameDisplay, Color('blue1'), (440, 390), 3)
-draw.circle(gameDisplay, Color('blue1'), (455, 390), 3)
+draw.circle(gameDisplay, Color('grey44'), (485, 375), 4)
+draw.circle(gameDisplay, Color('grey44'), (487, 363), 4)
+draw.circle(gameDisplay, Color('grey44'), (489, 361), 4)
+draw.circle(gameDisplay, Color('grey44'), (491, 369), 4)
+
+
 
 display.flip()
 input("Press enter to exit")
