@@ -87,6 +87,10 @@ draw.circle(gameDisplay, Color('grey44'), (487, 363), 4)
 draw.circle(gameDisplay, Color('grey44'), (489, 361), 4)
 draw.circle(gameDisplay, Color('grey44'), (491, 369), 4)
 draw.rect(gameDisplay, Color('grey'), Rect(230, 300, 50, 100))
+draw.circle(gameDisplay, Color('gold'), (265, 355), 6)
+draw.rect(gameDisplay, Color('grey'), Rect(135, 330, 50, 50))
+draw.rect(gameDisplay, Color('black'), Rect(158, 330, 5, 50))
+draw.rect(gameDisplay, Color('black'), Rect(135, 353, 50, 5))
 
 
 
