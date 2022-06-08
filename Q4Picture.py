@@ -88,9 +88,21 @@ draw.circle(gameDisplay, Color('grey44'), (489, 361), 4)
 draw.circle(gameDisplay, Color('grey44'), (491, 369), 4)
 draw.rect(gameDisplay, Color('grey'), Rect(230, 300, 50, 100))
 draw.circle(gameDisplay, Color('gold'), (265, 355), 6)
-draw.rect(gameDisplay, Color('grey'), Rect(135, 330, 50, 50))
+draw.rect(gameDisplay, Color('gray89'), Rect(135, 330, 50, 50))
 draw.rect(gameDisplay, Color('black'), Rect(158, 330, 5, 50))
 draw.rect(gameDisplay, Color('black'), Rect(135, 353, 50, 5))
+
+
+
+draw.rect(gameDisplay, Color('navyblue'), Rect(150, 30, 45, 7))
+draw.polygon(gameDisplay, Color('navyblue'), [(165, 30), (175, 30), (175, 60)])
+draw.polygon(gameDisplay, Color('navyblue'), [(165, 29), (175, 29), (175, 5)])
+
+
+draw.rect(gameDisplay, Color('gray89'), Rect(320, 330, 50, 50))
+draw.rect(gameDisplay, Color('black'), Rect(342, 330, 5, 50))
+draw.rect(gameDisplay, Color('black'), Rect(320, 353, 50, 5))
+draw.rect(gameDisplay, Color('black'), Rect(320, 353, 50, 5))
 
 
 
