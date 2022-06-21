@@ -1,0 +1,115 @@
+# NAME OF AUTHOR:  Kevin
+# NAME OF THE PROGRAM:  
+# DATE OF CREATION:  
+# PURPOSE OF PROGRAM:  
+
+# VARIABLE DEFINITION
+
+# INPUT
+
+
+# PROCESSING
+
+# OUTPUT
+
+print('Welcome to the Top Gun quiz, In this quiz you will be answering 6 questions on the first and second Top Gun.')
+print('please type the letter you think is correct.')
+#Question 1
+print("Question 1: What plane did Goose die in?")
+print("a. F-15 strike eagle")
+print("b. F-18 super hornet")
+print("c. Mig-17")
+print("d. F-14 Tomcat")
+
+q1_ans = input("your answer")
+
+if q1_ans=="D" or q1_ans== 'd':
+    print("Correct")
+else:
+    print("incorrect")
+    
+print("")
+
+#question2
+print("Question 2: what year did the first top gun come out?")
+print("a. 1986")
+print("b. 1992")
+print("c. 1999")
+print("d. 1989")
+
+q1_ans = input("your answer")
+
+if q1_ans=="A" or q1_ans== 'a':
+    print("Correct")
+else:
+    print("incorrect")
+
+print("")
+
+
+#question3
+print("Question 3: During the final mission in Top Gun Maverick, what plane did Maverick and his team use?")
+print("a. F-18 super hornet")
+print("b. F-14 tomcat")
+print("c. F-16 fighting falcon")
+print("d. E-18 Growler")
+
+q1_ans = input("your answer")
+
+if q1_ans=="A" or q1_ans== 'a':
+    print("Correct")
+else:
+    print("incorrect")
+    
+print("")
+
+    
+    
+#question4
+print("Question 4: What plane did Maverick fly the most in the first Top Gun?")
+print("a. F-16 fighting falcon")
+print("b. F-16 fighting falcon")
+print("c. F-14 tomcat")
+
+
+q1_ans = input("your answer")
+
+if q1_ans=="C" or q1_ans== 'c':
+    print("Correct")
+else:
+    print("incorrect")
+    
+    
+print("")
+ 
+#question5
+print("Question 5: What kind of motorcycle does Maverick use in both films?")
+print("a. kawasaki")
+print("b. harli")
+print("c. suzuki")
+
+
+q1_ans = input("your answer")
+
+if q1_ans=="A" or q1_ans== 'a':
+    print("Correct")
+else:
+    print("incorrect")
+    
+print("")
+
+#question6
+print("Question 6: Fnish this line, I feel the need for____?")
+print("a. action")
+print("b. speed")
+print("c. love")
+
+
+q1_ans = input("your answer")
+
+if q1_ans=="B" or q1_ans== 'b':
+    print("Correct")
+else:
+    print("incorrect")
+    
+print("Thank you for playing the Top Gun quiz.")
