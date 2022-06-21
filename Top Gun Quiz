@@ -5,7 +5,7 @@
 
 
 print('Welcome to the Top Gun quiz, In this quiz you will be answering 6 questions on the first and second Top Gun.')
-print('please type the letter you think is correct.')
+print('please type the letter you think is correct. Good Luck!')
 #Question 1
 print("Question 1: What plane did Goose die in?")
 print("a. F-15 strike eagle")
@@ -91,7 +91,7 @@ else:
 print("")
 
 #question6
-print("Question 6: Fnish this line, I feel the need for____?")
+print("Question 6: Finish this line: I feel the need, the need for____?")
 print("a. action")
 print("b. speed")
 print("c. love")
@@ -104,4 +104,6 @@ if q1_ans=="B" or q1_ans== 'b':
 else:
     print("incorrect")
     
+print("Thank you for playing the Top Gun quiz.")
+
 print("Thank you for playing the Top Gun quiz.")
