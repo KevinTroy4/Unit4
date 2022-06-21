@@ -1,16 +1,8 @@
 # NAME OF AUTHOR:  Kevin
-# NAME OF THE PROGRAM:  
-# DATE OF CREATION:  
-# PURPOSE OF PROGRAM:  
+# NAME OF THE PROGRAM: Top Gun Quiz 
+# DATE OF CREATION: June 17, 22'
+# PURPOSE OF PROGRAM:To summarize all of what we have learned throughout the semester.
 
-# VARIABLE DEFINITION
-
-# INPUT
-
-
-# PROCESSING
-
-# OUTPUT
 
 print('Welcome to the Top Gun quiz, In this quiz you will be answering 6 questions on the first and second Top Gun.')
 print('please type the letter you think is correct.')
@@ -68,7 +60,7 @@ print("")
 #question4
 print("Question 4: What plane did Maverick fly the most in the first Top Gun?")
 print("a. F-16 fighting falcon")
-print("b. F-16 fighting falcon")
+print("b. F-15 eagle")
 print("c. F-14 tomcat")
 
 
